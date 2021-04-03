@@ -1,9 +1,9 @@
-## GitHub users React project
+## GitHub users
 
 #### React project from John Smilga's React tutorial
 
-- app that allows the visiter to search Github users and display some useful info about the GitHub user (amount of the repos, list of followers, most stared repo)
-- in the project are used: React Hooks, React Router DOM to set up pages and navigation, FusionCharts to display user repo's data, Authentication
+- app that allows the visitor to search Github users and display some useful info about them (amount of the repos, list of followers, most stared repo)
+- in the project are used: React Hooks, React Router DOM library to set up pages and navigation, StyledComponents library, FusionCharts library to display user repo's data, Authentication
 
 ## Starter Project
 
@@ -54,9 +54,9 @@ version used - "react-router-dom": "^5.2.0",
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
-- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
-- [Followers](https://api.github.com/users/john-smilga/followers)
+- [Get User](https://api.github.com/users/SvetlanaStoycheva)
+- [Repos](https://api.github.com/users/SvetlanaStoycheva/repos?per_page=100)
+- [Followers](https://api.github.com/users/SvetlanaStoycheva/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
   For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
