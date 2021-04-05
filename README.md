@@ -55,7 +55,7 @@ version used - "react-router-dom": "^5.2.0",
 
 - [Root Endpoint](https://api.github.com)
 - [Get User](https://api.github.com/users/SvetlanaStoycheva)
-- [Repos](https://api.github.com/users/SvetlanaStoycheva/repos?per_page=100)
+- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
 - [Followers](https://api.github.com/users/SvetlanaStoycheva/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
