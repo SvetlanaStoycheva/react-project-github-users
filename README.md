@@ -4,6 +4,7 @@
 
 - app that allows the visitor to search Github users and display some useful info about them (amount of the repos, list of followers, most stared repo)
 - in the project are used: React Hooks, React Router DOM library to set up pages and navigation, StyledComponents library, FusionCharts library to display user repo's data, Auth0 library for Authentication
+- project is deployed on netlify: https://sweta-react-github-users.netlify.app
 
 ## Starter Project
 
